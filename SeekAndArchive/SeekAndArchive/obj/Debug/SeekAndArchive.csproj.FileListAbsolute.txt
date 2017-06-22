@@ -1,0 +1,12 @@
+C:\Users\okocs_000\Documents\codecool\c_sharp_2nd_si_week\SeekAndArchive\SeekAndArchive\bin\Debug\SeekAndArchive.exe.config
+C:\Users\okocs_000\Documents\codecool\c_sharp_2nd_si_week\SeekAndArchive\SeekAndArchive\bin\Debug\SeekAndArchive.exe
+C:\Users\okocs_000\Documents\codecool\c_sharp_2nd_si_week\SeekAndArchive\SeekAndArchive\bin\Debug\SeekAndArchive.pdb
+C:\Users\okocs_000\Documents\codecool\c_sharp_2nd_si_week\SeekAndArchive\SeekAndArchive\obj\Debug\SeekAndArchive.csprojResolveAssemblyReference.cache
+C:\Users\okocs_000\Documents\codecool\c_sharp_2nd_si_week\SeekAndArchive\SeekAndArchive\obj\Debug\SeekAndArchive.exe
+C:\Users\okocs_000\Documents\codecool\c_sharp_2nd_si_week\SeekAndArchive\SeekAndArchive\obj\Debug\SeekAndArchive.pdb
+C:\Users\okocs_000\Documents\codecool\c_sharp_2nd_si_week\searching-for-a-file\SeekAndArchive\SeekAndArchive\bin\Debug\SeekAndArchive.exe.config
+C:\Users\okocs_000\Documents\codecool\c_sharp_2nd_si_week\searching-for-a-file\SeekAndArchive\SeekAndArchive\bin\Debug\SeekAndArchive.exe
+C:\Users\okocs_000\Documents\codecool\c_sharp_2nd_si_week\searching-for-a-file\SeekAndArchive\SeekAndArchive\bin\Debug\SeekAndArchive.pdb
+C:\Users\okocs_000\Documents\codecool\c_sharp_2nd_si_week\searching-for-a-file\SeekAndArchive\SeekAndArchive\obj\Debug\SeekAndArchive.csprojResolveAssemblyReference.cache
+C:\Users\okocs_000\Documents\codecool\c_sharp_2nd_si_week\searching-for-a-file\SeekAndArchive\SeekAndArchive\obj\Debug\SeekAndArchive.exe
+C:\Users\okocs_000\Documents\codecool\c_sharp_2nd_si_week\searching-for-a-file\SeekAndArchive\SeekAndArchive\obj\Debug\SeekAndArchive.pdb
